@@ -1,0 +1,185 @@
+html,body{
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+*,*:before,*:after{
+	-moz-box-sizing: border-box;
+	webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+:focus,:active{outline: none;}
+a:focus,a:active{outline: none;}
+
+nav, footer, header, aside{display: block}
+
+html, body{
+	height: 100%;
+	width: 100%;
+	font-size: 100%;
+	line-height: 1;
+	font-size: 14px;
+	-ms-text-size-adjust: 100%;
+	-moz-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+}
+input, button, textarea{font-family:inherit;}
+
+input::-ms-clear{display: none;}
+button{cursor: pointer;}
+button::-moz-focus-inner {padding:0; border:0;}
+a, a:visited{text-decoration: none;}
+a:hover{text-decoration: none;}
+ul li{list-style: none;}
+img{vertical-align: top;}
+
+h1,h2,h3,h4,h5,h6{font-size: inherit;font-weight: 400;}
+
+body{
+	background-color: #99DCEB;
+	margin: 10px;
+	font-size: 18px;
+}
+
+h1{
+	font-size: 30px;
+}
+
+.p__1{
+	font-size: 10px;
+}
+
+.heading__1{
+	font-size: 36px;
+	text-align: center;
+}
+
+.p__2:first-letter{
+	font-size: 50px;
+	font-weight: block;
+	color: darkred;
+}
+
+.site__1{
+	color: darkkhaki;
+}
+
+.site__1:active{
+	color: #008CF0;
+}
+
+.img__1{
+
+}
+
+.block__2{
+	margin: 30px 0 30px 0;
+	color: rgba(255, 45, 143, 1);
+	border: 3px solid rgba(43, 239, 180, 0.8);
+	background-color: rgba(43, 239, 180, 1);
+	box-shadow: ;
+	border-radius: 15px;
+}
+
+.heading__2{
+	font-size: 36px;
+	text-align: center;
+}
+
+.site__2:active{
+	color: red;
+}
+
+.site__2:visited{
+	color: hotpink;
+}
+
+.heading__3{
+	text-align: center;
+	font-size: 36px;
+}
+
+.heading__3:first-letter{
+	color: darkorchid;
+}
+
+.p__3:first-line{
+	text-indent: 10px;
+}
+
+.p__3:first-letter{
+	font-size: 50px;
+	font-weight: block;
+	color: rgba(52, 45, 255, 1);
+}
+
+.block__3{
+	margin: 0 0 30px 0;
+	color: rgba(118, 255, 122, 0.9);
+	border: 3px solid rgba(0, 18, 102, 1);
+	background: url(../img/1627153888_13-kartinkin-com-p-kubik-rubik-anime-anime-krasivo-13.jpg) 0 0/100% 100% no-repeat fixed;
+	border-radius: 15px;
+	height: 1000px;
+	line-height: 35px;
+}
+
+.site__3{
+	font-style: italic;
+}
+
+.site__3:active{
+	color: red;
+}
+
+.site__3:visited{
+	color: hotpink;
+}
+
+.block__4{
+	border: 3px solid rgba(254, 229, 172, 1);
+	background: url(../img/0b2b0b6e-e3fb-441c-bc08-06f61f9ebea7.jpg) 15px 350px/500px 500px no-repeat, url(../img/obychnaya-korona.jpg) 0 0/100px 100px round;
+	color: rgba(142, 0, 219, 1);
+	border-radius: 15px;
+	margin: 0 0 30px 0;
+	height: 875px;
+}
+
+.heading__4{
+	color: #FF9218;
+	text-align: center;
+	font-size: 36px;
+	font-weight: block;
+	text-decoration: underline;
+}
+
+.img__5{
+	margin: 30px 0 0 0;
+	width: 500px;
+	height: 500px;
+}
+
+.p__5:first-letter{
+	font-size: 50px;
+	color: #0055FF;
+}
+
+.site__4:active{
+	color: red;
+}
+
+.site__4:visited{
+	color: hotpink;
+}
+
+.head_2{
+	text-align: center;
+	font-size: 40px;
+	color: #fff;
+}
+
+.block__5{
+	border-radius: 15px;
+	height: 1000px;
+	border: 3px solid #9818FF;
+	background: url(../img/Соля.jpg) 30px 150px/ 500px 600px no-repeat, url( ../img/изображение_viber_2022-06-27_21-19-56-872.jpg) 1200px 150px/600px 600px no-repeat,url(../img/Радуга.jpg) 0 0/100% 100% no-repeat;
+}
